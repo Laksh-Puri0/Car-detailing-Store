@@ -140,22 +140,6 @@ export default function BannerOffer({ seconds = 600 }) {
                 Book Now
               </motion.button>
             </a>
-
-            {/* Socials */}
-            <nav
-              className="flex items-center gap-3"
-              aria-label="Follow Royal Touch Auto Detailing"
-            >
-              <a
-                href="https://www.facebook.com/profile.php?id=61563899468930"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="Facebook"
-                className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-white/15 text-white transition hover:bg-white/25 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/60"
-              >
-                <FaFacebookF size={16} />
-              </a>
-            </nav>
           </div>
         </div>
       </motion.div>

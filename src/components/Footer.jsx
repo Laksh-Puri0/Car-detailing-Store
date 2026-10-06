@@ -51,8 +51,7 @@ export default function Footer() {
                 Royal <span className="text-red-600">Touch</span> Auto Detailing
               </h3>
               <p className="mt-3 max-w-sm text-sm text-slate-600">
-                Premium interior & exterior detailing in Toronto. Showroom-level
-                shine, every time.
+                Premium Interior & Exterior Detailing. Showroom Level Shine Everywhere.
               </p>
 
               <a
@@ -101,48 +100,20 @@ export default function Footer() {
               </ul>
             </div>
 
-            <div className="md:col-span-2">
-              <h4 className="text-sm font-semibold uppercase tracking-wider text-slate-900">
-                Follow Us
-              </h4>
-              <div className="mt-4 flex items-center gap-3">
-                <a
-                  href="https://www.instagram.com/royal_touch.auto.detailing/"
-                  target="_blank"
-                  rel="noreferrer"
-                  aria-label="Instagram"
-                  className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-red-200 text-red-600 transition hover:bg-red-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-300"
-                >
-                  <Instagram className="h-5 w-5" />
-                </a>
-                <a
-                  href="https://www.facebook.com/profile.php?id=61563899468930"
-                  target="_blank"
-                  rel="noreferrer"
-                  aria-label="Facebook"
-                  className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-red-200 text-red-600 transition hover:bg-red-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-300"
-                >
-                  <Facebook className="h-5 w-5" />
-                </a>
-             
-              </div>
-
-              <p className="mt-4 text-sm text-slate-600">
-                Serving Toronto & GTA • Mon–Sat
-              </p>
-            </div>
+            <p className="mt-4 text-sm text-slate-600">Mon–Sat</p>
           </div>
         </div>
+      </div>
 
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="h-px w-full bg-red-100" />
-        </div>
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="h-px w-full bg-red-100" />
+      </div>
 
-        <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
-          <div className="flex flex-col items-center text-center -justify-between gap-3 text-xs text-slate-500 sm:flex-row sm:text-sm">
-            <p classname="text-center" >© {year} Royal Touch Auto Detailing. All rights reserved.</p>
-
-          </div>
+      <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+        <div className="flex flex-col items-center text-center -justify-between gap-3 text-xs text-slate-500 sm:flex-row sm:text-sm">
+          <p classname="text-center">
+            © {year} Royal Touch Auto Detailing. All rights reserved.
+          </p>
         </div>
       </div>
     </footer>
