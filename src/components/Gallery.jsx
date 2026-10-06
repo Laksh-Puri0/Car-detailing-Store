@@ -125,7 +125,7 @@ export default function GallerySection() {
             Our <span className="text-red-600">Work Gallery</span>
           </h2>
           <p className="mx-auto mt-3 max-w-2xl text-[15px] leading-relaxed text-slate-600 sm:text-base">
-            Experience the shine — a glimpse of our premium auto detailing
+            Experience the shine a glimpse of our premium auto detailing
             transformations.
           </p>
         </motion.div>

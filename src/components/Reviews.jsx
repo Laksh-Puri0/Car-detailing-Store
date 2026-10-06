@@ -102,7 +102,7 @@ export default function Reviews() {
     {
       name: "Anum Patel",
       time: "3 months ago",
-      text: "I couldn’t be happier with the detailing job done on my car! It looks and feels brand new—inside and out. Every little nook was cleaned, the paint is shining, and even the carpets smell fresh. The team was professional and friendly throughout the whole process. Highly recommend!",
+      text: "I couldn’t be happier with the detailing job done on my car! It looks and feels brand new inside and out. Every little nook was cleaned, the paint is shining, and even the carpets smell fresh. The team was professional and friendly throughout the whole process. Highly recommend!",
       stars: 5,
     },
     {
@@ -255,7 +255,7 @@ export default function Reviews() {
             What Our <span className="text-red-600">Clients Say</span>
           </h2>
           <p className="mx-auto mt-3 max-w-2xl text-[15px] leading-relaxed text-slate-600 sm:text-base">
-            Real stories from real customers — see why drivers trust{" "}
+            Real stories from real customers see why drivers trust{" "}
             <span className="font-semibold text-red-600">
               Royal Touch Detailing
             </span>

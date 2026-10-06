@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import dynamic from "next/dynamic";
+import Footer from "@/components/Footer";
 
 const Banner = dynamic(() => import("@/components/Banner"), {
   ssr: false,
@@ -48,9 +49,10 @@ export default function Page() {
       <Banner />
       <Services />
       <Calendly />
-      <FAQ/>
+      <FAQ />
       <Reviews />
       <Gallery />
+      <Footer />
     </div>
   );
 }

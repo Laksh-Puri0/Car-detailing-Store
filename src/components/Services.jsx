@@ -93,7 +93,7 @@ export default function Services() {
         priceNew: "$215",
         time: "Estimated Time: 3 Hours",
         description:
-          "Complete signature package — interior deep clean + exterior deep restoration for a showroom-level refresh.",
+          "Complete signature package interior deep clean + exterior deep restoration for a showroom-level refresh.",
         image: "/Images/service3.jpg",
         features: [
           "Deep shampoo & steam clean",
@@ -172,7 +172,7 @@ export default function Services() {
               Our <span className="text-red-600">Royal Services</span>
             </h2>
             <p className="mt-2 max-w-2xl text-slate-600">
-              Choose a package tailored to your needs—crafted with care,
+              Choose a package tailored to your needs crafted with care,
               precision, and the Royal Touch promise.
             </p>
           </motion.div>
