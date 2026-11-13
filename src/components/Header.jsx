@@ -109,10 +109,10 @@ export default function HeaderHero() {
             {/* Right: Phone + Social (wraps on small screens, aligns right on md+) */}
             <div className="flex w-full flex-wrap items-center justify-center gap-3 sm:gap-4 md:w-auto md:justify-end">
               <a
-                href="tel:+16479322928"
+                href="tel:+17184812641"
                 className="rounded font-semibold tracking-tight outline-none transition-opacity hover:opacity-90 focus:ring-2 focus:ring-white/60 text-[12px] sm:text-sm"
               >
-                📞 +1 (647)-932-2928
+                📞 +1 718-481-2641
               </a>
 
               <nav
