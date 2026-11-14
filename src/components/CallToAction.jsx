@@ -74,11 +74,11 @@ export default function CallToAction() {
           </button>
 
           <a
-            href="tel:+17184812641"
+            href="tel:+19175588065"
             className="inline-flex w-full items-center justify-center rounded-full bg-white/10 px-7 py-3 text-sm font-semibold text-white backdrop-blur transition hover:bg-white/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/40 sm:w-auto md:text-base"
             aria-label="Call Royal Touch Auto Detailing"
           >
-            📞 Call: +1 718-481-2641
+            📞 Call: +1 917-558-8065
           </a>
         </motion.div>
 

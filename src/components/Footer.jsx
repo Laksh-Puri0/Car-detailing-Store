@@ -55,12 +55,12 @@ export default function Footer() {
               </p>
 
               <a
-                href="tel:+17184812641"
+                href="tel:+19175588065"
                 className="mt-5 inline-flex items-center gap-2 rounded-full border border-red-200 bg-white px-4 py-2 text-sm font-semibold text-red-700 transition hover:border-red-300 hover:bg-red-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-300"
                 aria-label="Call Royal Touch Auto Detailing"
               >
                 <Phone className="h-4 w-4" />
-                +1 718-481-2641
+                +1 917-558-8065
               </a>
             </div>
 
