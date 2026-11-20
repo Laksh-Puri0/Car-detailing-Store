@@ -22,7 +22,7 @@ export const metadata = {
     template: "%s | Royal Touch Auto Detailing",
   },
   description:
-    "Premium interior and exterior car detailing in Toronto & GTA. Deep interior clean, paint-safe exterior wash, protection, and showroom gloss. Mobile & in-shop appointments. Call +1 917-558-8065 or book online.",
+    "Premium interior and exterior car detailing in Toronto & GTA. Deep interior clean, paint-safe exterior wash, protection, and showroom gloss. Mobile & in-shop appointments. Call +1 718-750-1481 or book online.",
   keywords: [
     "auto detailing Toronto",
     "car detailing Toronto",
@@ -100,7 +100,7 @@ export default function RootLayout({ children }) {
     name: "Royal Touch Auto Detailing",
     url: SITE_URL,
     image: `${SITE_URL}/Images/og-royal.jpg`,
-    telephone: "+1-917-558-8065",
+    telephone: "+1-718-750-1481",
     areaServed: ["Toronto", "GTA", "Ontario"],
     address: {
       "@type": "PostalAddress",

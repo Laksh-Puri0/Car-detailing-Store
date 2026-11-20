@@ -166,10 +166,10 @@ export default function Hero() {
               Book Your Appointment
             </a>
             <a
-              href="tel:+19175588065"
+              href="tel:+17187501481"
               className="inline-flex items-center justify-center rounded-full bg-white/10 px-7 py-3 text-sm font-semibold text-white backdrop-blur transition hover:bg-white/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/50 md:text-base"
             >
-              📞 Call: +1 917-558-8065
+              📞 Call: +1 718-750-1481
             </a>
           </div>
         </motion.div>
